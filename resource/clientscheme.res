@@ -5472,6 +5472,10 @@ Scheme
 				"range" "0x0000 0xFFFF"
 			}
 		}			
-		"7" "resource/ocra.ttf"
+		"7"
+		{
+			"font" "resource/fonts/FRAHV.ttf"
+			"name" "Franklin Gothic Heavy"
+		}
 	}
 }
